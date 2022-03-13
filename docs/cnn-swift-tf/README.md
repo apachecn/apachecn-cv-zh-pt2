@@ -62,4 +62,4 @@ apachecn-cv-zh-pt2 <port>
 
 ## 赞助我们
 
-![](http://data.apachecn.org/img/donate.jpg)
+![](img/http://data.apachecn.org/img/donate.jpg)
